@@ -50,4 +50,4 @@ This is the **natural language language latency breakdown** needed for real‑ti
 Our public verification endpoint is currently live. You can test the latency decomposition directly from your own terminal right now:
 
 ```bash
-unshaved-resolute-zipping.ngrok-free.dev
+curl "https://unshaved-resolute-zipping.ngrok-free.dev/query?mode=search&n=5000&k=3"
